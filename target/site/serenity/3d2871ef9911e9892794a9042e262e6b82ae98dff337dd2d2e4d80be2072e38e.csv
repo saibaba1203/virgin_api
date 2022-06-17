@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Virgin games test","Verifying That the value of defaultGameFrequency=300000","SUCCESS","2022-01-21T19:46:35.171Z[Europe/London]","0.0","2.82"
+"Virgin games test","Verifying that 'startTime' should always be future timestamp","SUCCESS","2022-01-21T19:46:38.099Z[Europe/London]","0.0","0.21"
